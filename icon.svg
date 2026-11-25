@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="maroonBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7A1629" />
+      <stop offset="55%" stop-color="#5C1120" />
+      <stop offset="100%" stop-color="#4A0C18" />
+    </linearGradient>
+    <linearGradient id="honeyGold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FBF0D4" />
+      <stop offset="45%" stop-color="#E5A93C" />
+      <stop offset="100%" stop-color="#C88A2E" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="108" fill="url(#maroonBg)" />
+  <rect
+    x="22"
+    y="22"
+    width="468"
+    height="468"
+    rx="90"
+    fill="none"
+    stroke="url(#honeyGold)"
+    stroke-width="10"
+    stroke-opacity="0.88"
+  />
+  <!-- Architectural Luxury Gold 'M' Monogram -->
+  <path
+    d="M118 378 V134 H174 L256 266 L338 134 H394 V378 H340 V222 L272 332 H240 L172 222 V378 Z"
+    fill="url(#honeyGold)"
+  />
+  <!-- Subtle Crown Accent Dot above Center Vertex -->
+  <polygon points="256,118 270,136 256,154 242,136" fill="url(#honeyGold)" />
+</svg>
